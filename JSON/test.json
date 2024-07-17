@@ -23,49 +23,49 @@
         }
     },
     {
-        "Nome": "Matteo",
-        "Cognome": "Bianchi",
+        "Nome": "Carlo",
+        "Cognome": "Penco",
         "Nato": {
-            "Giorno": 28,
-            "Mese": 1,
-            "Anno": 1980,
-            "Citta": "Genova"
+            "Giorno": 5,
+            "Mese": 2,
+            "Anno": 1977,
+            "Citta": "Napoli"
         },
         "Indirizzo": {
-            "Via": "Via dei Marsano",
-            "Civico": "10B",
+            "Via": "Via Napoli",
+            "Civico": "1",
             "Interno": null,
             "Scala": null,
             "Citta": "Genova",
-            "CAP": 16167
+            "CAP": 16125
         },
-        "Sposato": false,
+        "Sposato": true,
         "Patente": {
             "Stato": true,
-            "Tipo": ["A", "B"]
+            "Tipo": ["B"]
         }
     },
     {
-        "Nome": "Matteo",
-        "Cognome": "Bianchi",
+        "Nome": "Pino",
+        "Cognome": "Cane",
         "Nato": {
-            "Giorno": 28,
+            "Giorno": 1,
             "Mese": 1,
-            "Anno": 1980,
-            "Citta": "Genova"
+            "Anno": 2000,
+            "Citta": "Catania"
         },
         "Indirizzo": {
-            "Via": "Via dei Marsano",
-            "Civico": "10B",
-            "Interno": null,
-            "Scala": null,
+            "Via": "Piazza Assorreta",
+            "Civico": "10K Rosso",
+            "Interno": "7a",
+            "Scala": "C",
             "Citta": "Genova",
-            "CAP": 16167
+            "CAP": 16100
         },
         "Sposato": false,
         "Patente": {
-            "Stato": true,
-            "Tipo": ["A", "B"]
+            "Stato": false,
+            "Tipo": []
         }
     }
 ]
