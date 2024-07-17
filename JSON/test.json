@@ -1,0 +1,71 @@
+[
+    {
+        "Nome": "Matteo",
+        "Cognome": "Bianchi",
+        "Nato": {
+            "Giorno": 28,
+            "Mese": 1,
+            "Anno": 1980,
+            "Citta": "Genova"
+        },
+        "Indirizzo": {
+            "Via": "Via dei Marsano",
+            "Civico": "10B",
+            "Interno": null,
+            "Scala": null,
+            "Citta": "Genova",
+            "CAP": 16167
+        },
+        "Sposato": false,
+        "Patente": {
+            "Stato": true,
+            "Tipo": ["A", "B"]
+        }
+    },
+    {
+        "Nome": "Matteo",
+        "Cognome": "Bianchi",
+        "Nato": {
+            "Giorno": 28,
+            "Mese": 1,
+            "Anno": 1980,
+            "Citta": "Genova"
+        },
+        "Indirizzo": {
+            "Via": "Via dei Marsano",
+            "Civico": "10B",
+            "Interno": null,
+            "Scala": null,
+            "Citta": "Genova",
+            "CAP": 16167
+        },
+        "Sposato": false,
+        "Patente": {
+            "Stato": true,
+            "Tipo": ["A", "B"]
+        }
+    },
+    {
+        "Nome": "Matteo",
+        "Cognome": "Bianchi",
+        "Nato": {
+            "Giorno": 28,
+            "Mese": 1,
+            "Anno": 1980,
+            "Citta": "Genova"
+        },
+        "Indirizzo": {
+            "Via": "Via dei Marsano",
+            "Civico": "10B",
+            "Interno": null,
+            "Scala": null,
+            "Citta": "Genova",
+            "CAP": 16167
+        },
+        "Sposato": false,
+        "Patente": {
+            "Stato": true,
+            "Tipo": ["A", "B"]
+        }
+    }
+]
