@@ -46,12 +46,12 @@
             "dockerBuild": {
                 "tag": "corso2024:dev",
                 "target": "base",
-                "dockerfile": "${workspaceFolder}/Prima lezione/Dockerfile",
+                "dockerfile": "${workspaceFolder}/dadi/Dockerfile",
                 "context": "${workspaceFolder}",
                 "pull": true
             },
             "netCore": {
-                "appProject": "${workspaceFolder}/Prima lezione/Prima lezione.csproj"
+                "appProject": "${workspaceFolder}/dadi/dadi.csproj"
             }
         },
         {
@@ -62,7 +62,7 @@
             ],
             "dockerBuild": {
                 "tag": "corso2024:latest",
-                "dockerfile": "${workspaceFolder}/Prima lezione/Dockerfile",
+                "dockerfile": "${workspaceFolder}/dadi/Dockerfile",
                 "context": "${workspaceFolder}",
                 "platform": {
                     "os": "windows",
@@ -71,7 +71,7 @@
                 "pull": true
             },
             "netCore": {
-                "appProject": "${workspaceFolder}/Prima lezione/Prima lezione.csproj"
+                "appProject": "${workspaceFolder}/dadi/dadi.csproj"
             }
         },
         {
@@ -84,7 +84,7 @@
                 "os": "Windows"
             },
             "netCore": {
-                "appProject": "${workspaceFolder}/Prima lezione/Prima lezione.csproj",
+                "appProject": "${workspaceFolder}/dadi/dadi.csproj",
                 "enableDebugging": true
             }
         },
@@ -98,7 +98,7 @@
                 "os": "Windows"
             },
             "netCore": {
-                "appProject": "${workspaceFolder}/Prima lezione/Prima lezione.csproj"
+                "appProject": "${workspaceFolder}/dadi/dadi.csproj"
             }
         }
     ]

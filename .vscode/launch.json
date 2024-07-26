@@ -23,7 +23,7 @@
             "request": "launch",
             "preLaunchTask": "docker-run: debug",
             "netCore": {
-                "appProject": "${workspaceFolder}/Prima lezione/Prima lezione.csproj"
+                "appProject": "${workspaceFolder}/dadi/dadi.csproj"
             }
         }
     ]

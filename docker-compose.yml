@@ -2,8 +2,8 @@
 version: '3.4'
 
 services:
-  primalezione:
-    image: primalezione
+  dadi:
+    image: dadi
     build:
       context: .
-      dockerfile: Prima lezione/Dockerfile
+      dockerfile: dadi/Dockerfile
