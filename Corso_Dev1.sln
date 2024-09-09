@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodiceSegreto", "CodiceSegr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{D68BEED6-D21D-42C4-9E64-02C017B3FF9A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database", "Database\Database.csproj", "{B49745F4-5EA0-4CBE-A6DD-E87FBBAA517A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{D68BEED6-D21D-42C4-9E64-02C017B3FF9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D68BEED6-D21D-42C4-9E64-02C017B3FF9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D68BEED6-D21D-42C4-9E64-02C017B3FF9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B49745F4-5EA0-4CBE-A6DD-E87FBBAA517A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B49745F4-5EA0-4CBE-A6DD-E87FBBAA517A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B49745F4-5EA0-4CBE-A6DD-E87FBBAA517A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B49745F4-5EA0-4CBE-A6DD-E87FBBAA517A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
