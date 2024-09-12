@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database", "Database\Database.csproj", "{B49745F4-5EA0-4CBE-A6DD-E87FBBAA517A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bootstrap", "Bootstrap\Bootstrap.csproj", "{CA90ED37-6BD7-407E-941B-F120015E6C24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,14 @@ Global
 		{B49745F4-5EA0-4CBE-A6DD-E87FBBAA517A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B49745F4-5EA0-4CBE-A6DD-E87FBBAA517A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B49745F4-5EA0-4CBE-A6DD-E87FBBAA517A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58444585-3D1E-47F8-82DE-EBDC5F6EC46A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58444585-3D1E-47F8-82DE-EBDC5F6EC46A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58444585-3D1E-47F8-82DE-EBDC5F6EC46A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58444585-3D1E-47F8-82DE-EBDC5F6EC46A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA90ED37-6BD7-407E-941B-F120015E6C24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA90ED37-6BD7-407E-941B-F120015E6C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA90ED37-6BD7-407E-941B-F120015E6C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA90ED37-6BD7-407E-941B-F120015E6C24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
