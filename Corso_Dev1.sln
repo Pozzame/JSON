@@ -39,6 +39,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bootstrap", "Bootstrap\Boot
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classi", "classi\classi.csproj", "{EBA4AF3A-AD49-4435-A32F-AAA55E8CD2A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{76F4000B-2334-494E-B4C1-F8F152D7EF4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattagliaNavale", "BattagliaNavale\BattagliaNavale.csproj", "{7444BBE8-6FBD-4F90-B9E2-05C3D0083346}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -133,6 +137,14 @@ Global
 		{EBA4AF3A-AD49-4435-A32F-AAA55E8CD2A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBA4AF3A-AD49-4435-A32F-AAA55E8CD2A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBA4AF3A-AD49-4435-A32F-AAA55E8CD2A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76F4000B-2334-494E-B4C1-F8F152D7EF4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76F4000B-2334-494E-B4C1-F8F152D7EF4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76F4000B-2334-494E-B4C1-F8F152D7EF4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76F4000B-2334-494E-B4C1-F8F152D7EF4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7444BBE8-6FBD-4F90-B9E2-05C3D0083346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7444BBE8-6FBD-4F90-B9E2-05C3D0083346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7444BBE8-6FBD-4F90-B9E2-05C3D0083346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7444BBE8-6FBD-4F90-B9E2-05C3D0083346}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
