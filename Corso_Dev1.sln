@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattagliaNavale", "Battagli
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcConsole", "MvcConsole\MvcConsole.csproj", "{A142D016-47B1-4C10-A211-036A82E88B1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFramework", "EntityFramework\EntityFramework.csproj", "{433DB60A-0863-40EA-A24A-B7DE0E2E8FA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -151,6 +153,10 @@ Global
 		{A142D016-47B1-4C10-A211-036A82E88B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A142D016-47B1-4C10-A211-036A82E88B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A142D016-47B1-4C10-A211-036A82E88B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{433DB60A-0863-40EA-A24A-B7DE0E2E8FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{433DB60A-0863-40EA-A24A-B7DE0E2E8FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{433DB60A-0863-40EA-A24A-B7DE0E2E8FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{433DB60A-0863-40EA-A24A-B7DE0E2E8FA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
