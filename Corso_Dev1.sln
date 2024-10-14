@@ -49,6 +49,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFramework", "EntityFr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Razor", "Razor\Razor.csproj", "{475F9DE0-11E6-4EAB-8F14-F7BC6903C3E0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dev1_2024", "dev1_2024", "{B169DCA0-592F-4CF0-9D8D-69A8B627412E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApp complete", "WebApp complete", "{9099B523-677C-438D-9844-0316C05743D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-IdentityFramework", "dev1_2024\WebApp complete\05-IdentityFramework\05-IdentityFramework.csproj", "{C0154F93-C15A-4546-A4C5-3395A88245E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -163,11 +169,19 @@ Global
 		{475F9DE0-11E6-4EAB-8F14-F7BC6903C3E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{475F9DE0-11E6-4EAB-8F14-F7BC6903C3E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{475F9DE0-11E6-4EAB-8F14-F7BC6903C3E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0154F93-C15A-4546-A4C5-3395A88245E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0154F93-C15A-4546-A4C5-3395A88245E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0154F93-C15A-4546-A4C5-3395A88245E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0154F93-C15A-4546-A4C5-3395A88245E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {304117B6-504E-4AD4-8CBC-1F8ADC231C0C}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9099B523-677C-438D-9844-0316C05743D1} = {B169DCA0-592F-4CF0-9D8D-69A8B627412E}
+		{C0154F93-C15A-4546-A4C5-3395A88245E6} = {9099B523-677C-438D-9844-0316C05743D1}
 	EndGlobalSection
 EndGlobal
